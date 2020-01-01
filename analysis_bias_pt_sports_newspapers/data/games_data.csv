@@ -1,0 +1,289 @@
+away_score,away_team,date,home_score,home_team
+0,Académica OAF,2018-07-14,3,Porto
+0,Académica OAF,2018-07-31,1,Sporting
+0,AEK,2018-12-12,1,Benfica
+0,Belenenses SAD,2018-11-24,2,Porto
+0,Belenenses SAD,2019-01-30,3,Porto
+0,Belenenses SAD,2019-11-10,2,Sporting
+0,Benfica,2018-10-23,1,Ajax
+0,Benfica,2018-10-27,2,Belenenses SAD
+0,Benfica,2019-01-02,2,Portimonense
+0,Benfica,2019-03-07,1,Dinamo Zagreb
+0,Benfica,2019-04-03,1,Sporting
+0,Benfica,2019-04-18,2,Eintracht Frankfurt
+0,Boavista,2018-10-28,3,Sporting
+0,Boavista,2019-04-05,2,Porto
+0,CD Aves,2018-09-23,2,Benfica
+0,CD Aves,2019-05-04,4,Porto
+0,CD Aves,2019-11-03,1,Porto
+0,CD Cova Piedade,2019-07-30,6,Benfica
+0,CD Tondela,2018-09-28,1,Porto
+0,CD Tondela,2019-03-30,1,Benfica
+0,CD Tondela,2019-12-16,3,Porto
+0,Chivas,2019-07-20,3,Benfica
+0,Dinamo Zagreb,2019-03-14,3,Benfica
+0,FC Famalicão,2019-10-27,3,Porto
+0,FC Famalicão,2019-12-14,4,Benfica
+0,FC Penafiel,2019-07-13,1,Porto
+0,Feirense,2018-09-01,1,Sporting
+0,Feirense,2018-10-28,2,Porto
+0,Feirense,2018-12-01,4,Benfica
+0,Fenerbahçe,2018-08-07,1,Benfica
+0,FK Napredak,2018-07-10,3,Benfica
+0,Fulham,2019-07-16,1,Porto
+0,Galatasaray,2018-10-03,1,Porto
+0,Galatasaray,2019-02-21,0,Benfica
+0,GD Chaves,2018-08-11,5,Porto
+0,GD Chaves,2019-02-25,4,Benfica
+0,Gil Vicente,2019-09-14,2,Benfica
+0,Karabakh,2018-09-20,2,Sporting
+0,Marítimo,2018-09-29,2,Sporting
+0,Marítimo,2019-03-16,3,Porto
+0,Marítimo,2019-04-22,6,Benfica
+0,Marítimo,2019-11-30,4,Benfica
+0,Moreirense,2018-09-02,3,Porto
+0,Moreirense,2019-12-08,1,Sporting
+0,Nacional,2019-02-10,10,Benfica
+0,Newcastle,2018-07-28,0,Porto
+0,Nice,2018-07-14,1,Sporting
+0,Paços de Ferreira,2018-12-05,2,Benfica
+0,Paços de Ferreira,2019-08-10,5,Benfica
+0,Paços de Ferreira,2019-12-02,2,Porto
+0,Portimonense,2019-10-30,4,Benfica
+0,Porto,2018-10-07,1,Benfica
+0,Porto,2019-01-12,0,Sporting
+0,Porto,2019-02-03,0,V. Guimarães
+0,Porto,2019-04-09,2,Liverpool
+0,Porto,2019-10-03,2,Feyenoord
+0,Porto,2019-11-07,2,Rangers
+0,PSV,2019-11-28,4,Sporting
+0,RD Águeda,2019-07-06,6,Porto
+0,Rio Ave,2019-04-07,3,Sporting
+0,Rio Ave,2019-11-02,2,Benfica
+0,Rosenborg,2019-10-24,1,Sporting
+0,Santa Clara,2019-03-15,1,Sporting
+0,Santa Clara,2019-04-20,1,Porto
+0,Santa Clara,2019-09-22,2,Porto
+0,Santa Clara,2019-09-25,1,Porto
+0,Santa Clara,2019-12-19,1,Porto
+0,SC Braga,2018-11-10,1,Porto
+0,SC Braga,2019-02-17,3,Sporting
+0,SC Braga,2019-02-26,3,Porto
+0,SC Braga,2019-07-31,1,Porto
+0,SC Espinho,2018-07-07,4,Porto
+0,Sporting,2018-09-24,1,SC Braga
+0,Sporting,2018-11-08,0,Arsenal
+0,Sporting,2018-12-23,1,V. Guimarães
+0,Sporting,2019-02-25,0,Marítimo
+0,Sporting,2019-08-04,5,Benfica
+0,Sporting,2019-10-17,2,FC Alverca
+0,Sporting,2019-11-03,1,CD Tondela
+0,Sporting,2019-12-12,3,LASK Linz
+0,Varzim,2018-07-11,8,Porto
+0,Varzim,2019-07-10,4,Porto
+0,V. Guimarães,2019-04-27,2,Sporting
+0,V. Guimarães,2019-09-01,3,Porto
+0,V. Guimarães,2019-09-25,0,Benfica
+0,Vorskla,2018-12-13,3,Sporting
+0,V. Setúbal,2019-02-16,2,Porto
+0,V. Setúbal,2019-08-17,4,Porto
+0,V. Setúbal,2019-09-28,1,Benfica
+0,V. Setúbal,2019-11-24,4,Porto
+0,Zenit,2019-12-10,3,Benfica
+1,Ajax,2018-11-07,1,Benfica
+1,Arouca,2018-11-22,2,Benfica
+1,Arsenal,2018-10-25,0,Sporting
+1,Belenenses SAD,2019-01-03,2,Sporting
+1,Benfica,2018-07-13,1,V. Setúbal
+1,Benfica,2018-07-21,0,Sevilla
+1,Benfica,2018-08-14,1,Fenerbahçe
+1,Benfica,2018-11-27,5,Bayern München
+1,Benfica,2018-12-08,0,V. Setúbal
+1,Benfica,2018-12-16,0,Marítimo
+1,Benfica,2018-12-19,0,CDC Montalegre
+1,Benfica,2018-12-28,1,CD Aves
+1,Benfica,2019-01-15,0,V. Guimarães
+1,Benfica,2019-01-18,0,V. Guimarães
+1,Benfica,2019-07-28,0,Milan
+1,Benfica,2019-10-02,3,Zenit
+1,Benfica,2019-10-27,0,CD Tondela
+1,Benfica,2019-11-05,3,Lyon
+1,Benfica,2019-12-03,1,SC Covilhã
+1,Boavista,2019-01-29,5,Benfica
+1,CD Aves,2018-08-04,3,Porto
+1,CD Aves,2018-12-09,4,Sporting
+1,CD Tondela,2019-05-11,1,Sporting
+1,Estoril Praia,2019-07-16,0,Sporting
+1,GD Chaves,2018-09-14,1,Porto
+1,GD Chaves,2018-11-11,2,Sporting
+1,Getafe,2019-07-21,2,Porto
+1,LASK Linz,2019-10-03,2,Sporting
+1,Lokomotiv,2018-11-06,4,Porto
+1,Lyon,2019-10-23,2,Benfica
+1,Marítimo,2018-09-16,3,Sporting
+1,Marseille,2018-07-28,1,Sporting
+1,Monaco,2019-07-27,0,Porto
+1,Moreirense,2019-01-19,2,Sporting
+1,Nacional,2019-01-07,3,Porto
+1,PAOK,2018-08-21,1,Benfica
+1,Portimonense,2018-12-07,4,Porto
+1,Portimonense,2019-03-03,3,Sporting
+1,Portimonense,2019-05-04,5,Benfica
+1,Porto,2018-07-17,2,Portimonense
+1,Porto,2018-07-20,2,Lille
+1,Porto,2018-07-22,0,Everton
+1,Porto,2018-09-18,1,Schalke 04
+1,Porto,2018-12-02,0,Boavista
+1,Porto,2019-01-03,0,CD Aves
+1,Porto,2019-02-08,1,Moreirense
+1,Porto,2019-02-12,2,Roma
+1,Porto,2019-04-02,1,SC Braga
+1,Porto,2019-08-07,0,FK Krasnodar
+1,Porto,2019-08-10,2,Gil Vicente
+1,Porto,2019-09-29,0,Rio Ave
+1,Porto,2019-10-30,1,Marítimo
+1,Porto,2019-11-10,0,Boavista
+1,Porto,2019-12-08,1,Belenenses SAD
+1,Rangers,2019-10-24,1,Porto
+1,Rio Ave,2018-09-15,2,Benfica
+1,Rio Ave,2018-12-23,2,Porto
+1,Roma,2019-03-06,3,Porto
+1,Santa Clara,2019-05-18,4,Benfica
+1,SC Braga,2019-08-18,2,Sporting
+1,SC Braga,2019-12-18,2,Benfica
+1,Schalke 04,2018-11-28,3,Porto
+1,Sporting,2018-07-12,2,Neuchâtel Xamax
+1,Sporting,2018-08-25,1,Benfica
+1,Sporting,2019-01-07,2,CD Tondela
+1,Sporting,2019-01-30,1,V. Setúbal
+1,Sporting,2019-02-06,2,Benfica
+1,Sporting,2019-02-21,1,Villarreal
+1,Sporting,2019-04-19,0,Nacional
+1,Sporting,2019-05-18,2,Porto
+1,Sporting,2019-07-10,2,FC Rapperswil-Jona
+1,Sporting,2019-08-11,1,Marítimo
+1,Sporting,2019-09-15,1,Boavista
+1,Sporting,2019-09-30,0,CD Aves
+1,Sporting,2019-12-01,3,Gil Vicente
+1,Stade-Lausanne,2018-07-16,4,Sporting
+1,V. Guimarães,2019-10-27,3,Sporting
+1,Vilafranquense,2019-11-22,1,Sporting
+1,Villarreal,2019-02-14,0,Sporting
+1,V. Setúbal,2018-08-18,2,Sporting
+1,Young Boys,2019-09-19,2,Porto
+2,Anderlecht,2019-07-10,1,Benfica
+2,Bayern München,2018-09-19,0,Benfica
+2,Belenenses SAD,2019-03-11,2,Benfica
+2,Benfica,2018-08-18,0,Boavista
+2,Benfica,2018-09-27,2,GD Chaves
+2,Benfica,2019-01-11,0,Santa Clara
+2,Benfica,2019-02-14,1,Galatasaray
+2,Benfica,2019-03-02,1,Porto
+2,Benfica,2019-07-25,1,Fiorentina
+2,Benfica,2019-08-17,0,Belenenses SAD
+2,Benfica,2019-09-21,1,Moreirense
+2,Benfica,2019-11-09,1,Santa Clara
+2,Benfica,2019-11-23,1,FC Vizela
+2,Benfica,2019-11-27,2,RB Leipzig
+2,Benfica,2019-12-21,2,V. Setúbal
+2,CD Mafra,2018-07-25,1,Sporting
+2,Eintracht Frankfurt,2019-04-11,4,Benfica
+2,Estoril Praia,2018-08-02,1,Sporting
+2,Estoril Praia,2018-10-31,1,Sporting
+2,Farense,2019-07-24,4,Porto
+2,FC Famalicão,2019-09-23,1,Sporting
+2,Feyenoord,2019-12-12,3,Porto
+2,Nacional,2018-12-16,5,Sporting
+2,Porto,2018-07-25,0,Farense
+2,Porto,2018-09-22,0,V. Setúbal
+2,Porto,2018-11-03,0,Marítimo
+2,Porto,2018-12-15,1,Santa Clara
+2,Porto,2018-12-30,1,Belenenses SAD
+2,Porto,2019-01-15,1,Leixões
+2,Porto,2019-03-10,1,Feirense
+2,Porto,2019-04-26,2,Rio Ave
+2,Porto B,2019-07-31,6,Porto
+2,Porto,2019-08-24,0,Benfica
+2,Porto,2019-11-28,1,Young Boys
+2,RB Leipzig,2019-09-17,1,Benfica
+2,Rio Ave,2018-12-19,5,Sporting
+2,Rio Ave,2019-01-06,4,Benfica
+2,Rio Ave,2019-09-26,1,Sporting
+2,SC Braga,2018-12-23,6,Benfica
+2,Sporting,2018-10-04,1,Vorskla
+2,Sporting,2018-10-07,4,Portimonense
+2,Sporting,2018-10-20,1,GS Loures
+2,Sporting,2018-11-04,1,Santa Clara
+2,Sporting,2019-01-16,0,Feirense
+2,Sporting,2019-03-09,1,Boavista
+2,Sporting,2019-07-13,2,St. Gallen
+2,Sporting,2019-07-25,2,Liverpool
+2,Sporting,2019-09-19,3,PSV
+2,Sporting,2019-10-31,1,Paços de Ferreira
+2,Sporting,2019-11-07,0,Rosenborg
+2,Sporting,2019-12-04,0,Gil Vicente
+2,Valencia,2019-07-28,1,Sporting
+2,Varzim,2018-10-31,4,Porto
+2,V. Guimarães,2018-08-10,3,Benfica
+2,V. Setúbal,2019-04-14,4,Benfica
+3,Benfica,2018-10-02,2,AEK
+3,Benfica,2018-10-18,0,Sertanense
+3,Benfica,2018-11-11,1,CD Tondela
+3,Benfica,2019-02-18,0,CD Aves
+3,Benfica,2019-05-12,2,Rio Ave
+3,FK Krasnodar,2019-08-13,2,Porto
+3,Lyon,2018-08-01,2,Benfica
+3,Moreirense,2018-11-02,1,Benfica
+3,Moreirense,2018-12-18,4,Porto
+3,Porto,2018-08-19,2,Belenenses SAD
+3,Porto,2018-10-24,1,Lokomotiv
+3,Porto,2018-12-11,2,Galatasaray
+3,Porto,2019-01-22,1,Benfica
+3,Porto,2019-02-22,0,CD Tondela
+3,Porto,2019-03-30,2,SC Braga
+3,Porto,2019-04-13,0,Portimonense
+3,Porto,2019-09-15,2,Portimonense
+3,Porto,2019-12-05,0,Casa Pia
+3,Rio Ave,2019-08-31,2,Sporting
+3,Sporting,2018-08-12,1,Moreirense
+3,Sporting,2018-12-03,1,Rio Ave
+3,Sporting,2019-01-26,1,Porto
+3,Sporting,2019-02-10,1,Feirense
+3,Sporting,2019-03-30,1,GD Chaves
+3,Sporting,2019-04-13,1,CD Aves
+3,Sporting,2019-07-19,4,Club Brugge
+3,Sporting,2019-08-25,1,Portimonense
+3,V. Guimarães,2018-08-25,2,Porto
+4,Benfica,2018-07-26,3,Borussia Dortmund
+4,Benfica,2018-08-29,1,PAOK
+4,Benfica,2018-09-02,0,Nacional
+4,Benfica,2019-02-03,2,Sporting
+4,Benfica,2019-03-17,0,Moreirense
+4,Benfica,2019-04-07,1,Feirense
+4,Benfica,2019-04-28,1,SC Braga
+4,Benfica,2019-09-01,0,SC Braga
+4,Benfica,2019-10-18,0,CD Cova Piedade
+4,Benfica,2019-12-06,1,Boavista
+4,Juventus,2018-07-28,2,Benfica
+4,Liverpool,2019-04-17,1,Porto
+4,Porto,2019-01-18,1,GD Chaves
+4,Porto,2019-05-12,0,Nacional
+4,Porto,2019-05-25,5,Sporting
+4,Porto,2019-12-22,2,GD Chaves
+4,Real Betis,2019-07-19,5,Porto
+4,Sporting,2018-11-24,1,Lusitano Vildemoinhos
+4,Sporting,2018-12-29,1,Feirense
+4,Sporting,2019-01-23,3,SC Braga
+4,Sporting,2019-12-16,0,Santa Clara
+4,Sporting,2019-12-21,2,Portimonense
+5,Benfica,2018-07-18,0,Swindon Town
+5,Benfica,2019-07-23,0,Ocean City Nor´easters
+5,Empoli,2018-08-05,4,Sporting
+5,Porto,2019-10-19,0,SC Coimbrões
+6,Benfica,2019-07-26,0,Baltimore Christos
+6,Porto,2018-10-19,0,Vila Real
+6,Sporting,2018-07-11,0,Lancy FC
+6,Sporting,2018-11-29,1,Karabakh
+8,Benfica,2019-07-13,0,Académica OAF
+8,Sporting,2019-05-05,1,Belenenses SAD
+9,Benfica,2019-07-17,1,Academica Soccer Club
