@@ -2,7 +2,9 @@ Analysis of biases in portuguese sports newspapers
 ========
 
 Code and data used for analyzing the biases in portuguese sports
-newspapers: link.
+newspapers:
+https://ruitsilva.com/pt/post/enviesamento_jornais_desportivos_portugueses/
+(in Portuguese).
 
 
 Dependencies
